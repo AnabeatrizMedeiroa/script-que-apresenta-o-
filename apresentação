@@ -1,0 +1,3 @@
+def apresentação(nome):
+    print (f'Olá, {nome}. Como vc está? Me chamo Bia.')
+apresentação('Ana')
